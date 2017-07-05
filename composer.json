@@ -1,0 +1,25 @@
+{
+    "name": "pokerdragon/yii2-aip-ocr",
+    "description": "RBAC Auth manager for Yii2 ",
+    "keywords": ["yii", "ocr", "baidu"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/pokerdragon/yii2-aip-ocr/issues",
+        "source": "https://github.com/pokerdragon/yii2-aip-ocr"
+    },
+    "authors": [
+        {
+            "name": "pokerdragon",
+            "email": "pokerdragon@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "pd\\ocr\\": ""
+        }
+    }
+}
